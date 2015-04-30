@@ -1,0 +1,1 @@
+prince --input-list=../documentation-theme-jekyll-builds/designer-pdf/prince-file-list.txt -o ../documentation-theme-jekyll-builds/pdf-output/designer.pdf
