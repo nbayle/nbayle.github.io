@@ -1,17 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://npb.io/categories/</loc>
+    <loc>http://npb.io/categories/</loc>
+  </url><url>
+    <loc>http://npb.io/</loc>
+  </url><url>
+    <loc>http://npb.io/tags/</loc>
   </url>
-  
-  <url>
-    <loc>https://npb.io/</loc>
-  </url>
-  
-  <url>
-    <loc>https://npb.io/tags/</loc>
-  </url>
-  
 </urlset>
